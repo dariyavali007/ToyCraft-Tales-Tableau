@@ -64,6 +64,6 @@ The Tableau dashboard contains the following **four worksheets**, each telling a
 
 ## 📣 Author
 
-**M. Praveen**  
+**Sk.dariya vali**  
 Tableau & Data Analytics Enthusiast  
 📍 India
